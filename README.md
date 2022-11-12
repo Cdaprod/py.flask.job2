@@ -1,4 +1,4 @@
-# py.flask.job2
+# py.flask.job2 ((lab))
 Deploy HTML pages in a 'template-like' fashion, using python and flask.
 
 Work in progress...
